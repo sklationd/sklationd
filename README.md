@@ -50,6 +50,8 @@
 
 ## 프로젝트
 
+<details><summary>Click to expand!</summary>
+
 ### KAISTAL
 
 [![website](https://img.shields.io/badge/app-kaistal-red.svg)](https://github.com/sklationd/MADCAMP_PJ4_Client/tree/master)
@@ -104,6 +106,9 @@
 * [Pintos 제작](https://github.com/sklationd/pintos)
 * 간단한 코드 난독화를 제공하는 [웹사이트](https://sklationd.github.io/egemoji)
 * 쓸모없는거 만들기 해커톤 우승 [작품](https://chrome.google.com/webstore/detail/thabnos/pacnbifknkjmhbmnpbbfddoojfpbgncp)
+
+</details>
+
 
 ### ETC
 - [BoJ](https://www.acmicpc.net/user/skkiss98) 300 문제 달성 ! 
